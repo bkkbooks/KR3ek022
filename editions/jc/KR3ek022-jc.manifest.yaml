@@ -1,0 +1,692 @@
+canonical_identifier: bkk:krp/KR3ek022/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek022/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科樞要
+  identifiers:
+    krp: KR3ek022
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek022.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek022_000-jc.yaml, hash: 'sha256:a041ab45337dcb58091b8cf7ce2931030089e263d6298dd96cd977de8a61d92d'}
+  - {seq: 1, filename: KR3ek022_001-jc.yaml, hash: 'sha256:604afe4098f48796f4d844d02d8a56f0dd7d55b28eecbcc8ba758a71c89af384'}
+  - {seq: 2, filename: KR3ek022_002-jc.yaml, hash: 'sha256:5f0a9aa73476f3f9ba7f92c938c1dc361d9e0424d8527580d5f9f35b7db47658'}
+  - {seq: 3, filename: KR3ek022_003-jc.yaml, hash: 'sha256:ec028d0b5c89029eaa646f592d42c74da6b6c1669384b3de34bf687ec168cad1'}
+  - {seq: 4, filename: KR3ek022_004-jc.yaml, hash: 'sha256:9e7b6cb9c29f2da7a5991bb3db3085b1f9eab104d65f43637b0bd89bec56fc67'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek022_000-jc.markers.yaml, hash: 'sha256:17372ab3c36f98e4ff03f04680d23aa6af8053e136dc3b8e39a68541630d2374'}
+  - {seq: 1, role: markers, filename: assets/KR3ek022_001-jc.markers.yaml, hash: 'sha256:98502c706c4f3651ce202b3284ed154e51ba4bcbddb615e3a693e009b8f54720'}
+  - {seq: 2, role: markers, filename: assets/KR3ek022_002-jc.markers.yaml, hash: 'sha256:b3d386840d63aa35aac89817f2b632d4a0e6b2d72b0fc0fd6b820c1662972dab'}
+  - {seq: 3, role: markers, filename: assets/KR3ek022_003-jc.markers.yaml, hash: 'sha256:f3eca6bf475b030ff72c13a743f85be6f4eae144352bbe9e6da48bcf0e711cc2'}
+  - {seq: 4, role: markers, filename: assets/KR3ek022_004-jc.markers.yaml, hash: 'sha256:1e90f1effdac35c9aefe097c4ac07680c431742e6f754b86d4088e6535e61376'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek022_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 492
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11658
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1587
+  label: 論瘡瘍二十六脈所主一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d3
+    span:
+    - body
+    - 1587
+    - 2390
+  label: 論瘡瘍五善七惡主治二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d4
+    span:
+    - body
+    - 2390
+    - 2958
+  label: 論瘡瘍當明本末虛實三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d5
+    span:
+    - body
+    - 2958
+    - 3363
+  label: 論瘡瘍用針宜禁四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d6
+    span:
+    - body
+    - 3363
+    - 3848
+  label: 論瘡瘍欲嘔作嘔五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d7
+    span:
+    - body
+    - 3848
+    - 4272
+  label: 論瘡瘍用汗下藥六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d8
+    span:
+    - body
+    - 4272
+    - 4806
+  label: 論瘡瘍圍寒涼之藥七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d9
+    span:
+    - body
+    - 4806
+    - 5229
+  label: 論瘡瘍泥用定痛散八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d10
+    span:
+    - body
+    - 5229
+    - 5663
+  label: 論瘡瘍用生肌之藥九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d11
+    span:
+    - body
+    - 5663
+    - 6077
+  label: 論瘡瘍去腐肉十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d12
+    span:
+    - body
+    - 6077
+    - 6613
+  label: 論瘡瘍未潰用敗毒之藥十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d13
+    span:
+    - body
+    - 6613
+    - 6775
+  label: 論瘡瘍用針勿忌尻神十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d14
+    span:
+    - body
+    - 6775
+    - 7562
+  label: 論瘡瘍陽氣脫陷十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d15
+    span:
+    - body
+    - 7562
+    - 8411
+  label: 論瘡瘍發熱煩躁十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d16
+    span:
+    - body
+    - 8411
+    - 8859
+  label: 論瘡瘍輕症用重劑十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d17
+    span:
+    - body
+    - 8859
+    - 8984
+  label: 論瘡瘍當舍時從症十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d18
+    span:
+    - body
+    - 8984
+    - 9511
+  label: 論瘡瘍大便秘結十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d19
+    span:
+    - body
+    - 9511
+    - 9893
+  label: 論瘡瘍大便瀉利十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d20
+    span:
+    - body
+    - 9893
+    - 10545
+  label: 論瘡瘍小便淋漓頻數不利十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d21
+    span:
+    - body
+    - 10545
+    - 10764
+  label: 論瘡瘍作渴二十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek022_jc_001-d3d22
+    span:
+    - body
+    - 10764
+    - 11658
+  label: 論瘡瘍出血二十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 14738
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 426
+  label: 論腦疽一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d3
+    span:
+    - body
+    - 426
+    - 1397
+  label: 論耳瘡二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d4
+    span:
+    - body
+    - 1397
+    - 1708
+  label: 論鬢疽三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d5
+    span:
+    - body
+    - 1708
+    - 2680
+  label: 論瘰癧四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d6
+    span:
+    - body
+    - 2680
+    - 3152
+  label: 論時毒五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d7
+    span:
+    - body
+    - 3152
+    - 3625
+  label: 論痄腮六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d8
+    span:
+    - body
+    - 3625
+    - 5101
+  label: 論發背七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d9
+    span:
+    - body
+    - 5101
+    - 5733
+  label: 論乳癰乳岩結核八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d10
+    span:
+    - body
+    - 5733
+    - 6328
+  label: 論疔瘡九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d11
+    span:
+    - body
+    - 6328
+    - 7441
+  label: 論肺疽肺痿十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d12
+    span:
+    - body
+    - 7441
+    - 7767
+  label: 論胃脘癰十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d13
+    span:
+    - body
+    - 7767
+    - 8294
+  label: 論腸癰十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d14
+    span:
+    - body
+    - 8294
+    - 9398
+  label: 論腹癰十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d15
+    span:
+    - body
+    - 9398
+    - 10221
+  label: 論流注十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d16
+    span:
+    - body
+    - 10221
+    - 10936
+  label: 論鶴膝風十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d17
+    span:
+    - body
+    - 10936
+    - 11963
+  label: 論天泡瘡十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d18
+    span:
+    - body
+    - 11963
+    - 12352
+  label: 論赤白遊風十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d19
+    span:
+    - body
+    - 12352
+    - 12946
+  label: 論疥瘡十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d20
+    span:
+    - body
+    - 12946
+    - 13618
+  label: 論附骨疽十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d21
+    span:
+    - body
+    - 13618
+    - 14174
+  label: 論多骨疽二十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek022_jc_002-d4d22
+    span:
+    - body
+    - 14174
+    - 14738
+  label: 論翻花瘡二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 16375
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 790
+  label: 論臀癰一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d3
+    span:
+    - body
+    - 790
+    - 2099
+  label: 論囊癰二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d4
+    span:
+    - body
+    - 2099
+    - 3251
+  label: 論懸癰三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d5
+    span:
+    - body
+    - 3251
+    - 4502
+  label: 論便癰四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d6
+    span:
+    - body
+    - 4502
+    - 5221
+  label: 論下疳瘡五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d7
+    span:
+    - body
+    - 5221
+    - 6088
+  label: 論痔瘡六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d8
+    span:
+    - body
+    - 6088
+    - 6490
+  label: 論便血七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d9
+    span:
+    - body
+    - 6490
+    - 6892
+  label: 論脫肛八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d10
+    span:
+    - body
+    - 6892
+    - 7121
+  label: 論腎臟風瘡九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d11
+    span:
+    - body
+    - 7121
+    - 7771
+  label: 論臁瘡十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d12
+    span:
+    - body
+    - 7771
+    - 8708
+  label: 論足跟瘡十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d13
+    span:
+    - body
+    - 8708
+    - 9425
+  label: 論腳發十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d14
+    span:
+    - body
+    - 9425
+    - 10112
+  label: 論脫疽十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d15
+    span:
+    - body
+    - 10112
+    - 11375
+  label: 論瘤贅十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d16
+    span:
+    - body
+    - 11375
+    - 12441
+  label: 論疣子十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d17
+    span:
+    - body
+    - 12441
+    - 13783
+  label: 論發痙十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d18
+    span:
+    - body
+    - 13783
+    - 14258
+  label: 論類破傷風症十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek022_jc_003-d5d19
+    span:
+    - body
+    - 14258
+    - 16375
+  label: 論瘡瘍隨症加減用藥十八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek022_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11895
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ek022_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 11895
+  label: 治瘡瘍各症附方
+  type: section
+  level: 2
+hash: sha256:82c6e3ab98b15a34d0298f15a8186751203075127876fb2f25baa8aa02282930
