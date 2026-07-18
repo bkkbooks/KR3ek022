@@ -27,7 +27,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR3ek022_001.markers.yaml, hash: 'sha256:605fe32c150fa3599f3b0ea996ab1268d4d564e966fc43bd5d54fe066ba21d08'}
   - {seq: 2, role: markers, filename: assets/KR3ek022_002.markers.yaml, hash: 'sha256:b49a867818f6c2dfd5a64f849eb4b2dd4550a072ce2e155aeeb7fb9a500c3d34'}
   - {seq: 3, role: markers, filename: assets/KR3ek022_003.markers.yaml, hash: 'sha256:ff15388532eb3fc60ad29a1e4254ec1ddef122a836b0d34232ddc7a089952eea'}
-  - {seq: 4, role: markers, filename: assets/KR3ek022_004.markers.yaml, hash: 'sha256:8836e6777c8c57d445fcfdf737a0694aff64edc3b9ecb4a6d234553d174d2010'}
+  - {seq: 4, role: markers, filename: assets/KR3ek022_004.markers.yaml, hash: 'sha256:f44745e5d435f5b13db77eb80d31a9508ba6b428be55b47bc743544c63824ece'}
 table_of_contents:
 - ref:
     seq: 0
@@ -689,7 +689,7 @@ table_of_contents:
   label: 治瘡瘍各症附方
   type: section
   level: 2
-hash: sha256:5765b1d98bef5297cb629874fed9e2847260acdfaf90fcc541442c19de42e0a5
+hash: sha256:649e53afb547afeb14e9d1b1444d48ee1275dd41c4f21f9e82ec72b9a443f629
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
